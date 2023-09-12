@@ -66,3 +66,15 @@ article{
     color: green;
     font-weight: bold;
 }
+.checkout {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: skyblue;
+    font-weight: bold;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+.checkout span{
+    color: green;
+}
